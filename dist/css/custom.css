@@ -1,0 +1,28 @@
+ .gtext {
+     color: green;
+     text-shadow: 2px 2px 5px green;
+     /* font-size: 140%; */
+ }
+ 
+ .otext {
+     color: orange;
+     text-shadow: 2px 2px 5px orange;
+     /* font-size: 140%; */
+ }
+ 
+ .rtext {
+     color: red;
+     text-shadow: 2px 2px 5px red;
+     /* font-size: 140%; */
+ }
+ 
+ .cbtn {
+     margin-left: 0px;
+     margin-bottom: 6px;
+     margin-top: 10px;
+ }
+ 
+ .headerRow {
+     background-color: #153d70;
+     color: white;
+ }
